@@ -9,6 +9,9 @@ Here a screenshot:
 
 ![Screenshot from 2021-04-09 14-41-02](https://user-images.githubusercontent.com/46232520/114219873-a24fe100-9941-11eb-885e-57e28ce7df80.png)
 
+# Dependencies
+xinput
+
 # How to install
 
 Download the latest version here: [Releases](https://github.com/Izurii/Lenovo-Y720-KB-Led-Controller/releases)
