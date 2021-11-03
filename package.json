@@ -21,6 +21,7 @@
     "icon": "resources/icon.png",
     "linux": {
       "target": [
+        "rpm",
         "deb",
         "AppImage"
       ],
